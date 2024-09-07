@@ -20,6 +20,7 @@ Ao digitar ou selecionar a sua data de anivérsário, o sistema retorna um fato 
 
 ## Principal Funcionalidade
 Ao digitar ou selecionar a sua data de anivérsário, o sistema retorna um fato histórico na tela
+<br>
 <strong>Exemplo:</strong>
 + data de aniverário: 01/06
 + sistema retorna o que aconteceu no dia 1º de junho pelo mundo!
