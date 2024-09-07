@@ -18,13 +18,6 @@ Ao digitar ou selecionar a sua data de anivérsário, o sistema retorna um fato 
 + Os fatos históricos você encontra em `fatos.js`
 + Toda estilização da página vocÊ encontra em `style.css`
 
-## Principal Funcionalidade
-Ao digitar ou selecionar a sua data de anivérsário, o sistema retorna um fato histórico na tela
-<br>
-<strong>Exemplo:</strong>
-+ data de aniverário: 01/06
-+ sistema retorna o que aconteceu no dia 1º de junho pelo mundo!
-
 ## Onde me encontrar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-campache-27ba1a287/)
 
